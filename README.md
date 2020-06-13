@@ -3,6 +3,8 @@
 This is a countdown timer which you can embed into an AltspaceVR virtual world. It's written using the [Mixed Reality
 Extension SDK](https://github.com/Microsoft/mixed-reality-extension-sdk).
 
+**Note: the audio files in public are copyright RDLabs and are under a restrictive license, not the MIT license that applies to the code.**
+
 ## Prerequisites
 
 Node.js 14 with Typescript support.
